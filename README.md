@@ -10,6 +10,6 @@ What are the potential places for each crime? By finding the potential places fo
 
 
 <p align="center">
-  <img src="./MapFig.png"/>
+  <img src="./MapFig.png" width="600"/>
 </p>
 
