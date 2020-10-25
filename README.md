@@ -13,3 +13,14 @@ What are the potential places for each crime? By finding the potential places fo
   <img src="./MapFig.png" width="600"/>
 </p>
 
+Based on the Chicago crime dataset, the probability of seeing battery and narcotics crimes in the 11th district is almost two times more than other crimes in recent years, while theft is the most serious issue in district one.
+
+## Location-Based Analysis: 
+The main question may come to mind is that  what are the more common crimes in each public place? This dataset contains a location description field. Therefore, we can find which types of crime are more likely to happen in public places, such as schools or train. Thus, we can improve safety efficiently for public places. In the initial evaluation, I considered 5 public places including school, library, governmental building, airport, and taxi. As shown the in Figure, the battery is the major crime in school while deceptive practice crime is common in taxis.
+
+
+<p align="center">
+  <img src="./Public_Place_Crimes.png" width="600"/>
+</p>
+
+Please read my [report](./crime project.docx) for more informatio.
