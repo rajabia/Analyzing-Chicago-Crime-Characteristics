@@ -10,4 +10,4 @@ What are the potential places for each crime? By finding the potential places fo
 
 
 
-(./MapFig.png)
+![](./MapFig.png)
