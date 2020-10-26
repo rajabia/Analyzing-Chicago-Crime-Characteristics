@@ -23,4 +23,4 @@ The main question may come to mind is that  what are the more common crimes in e
   <img src="./Public_Place_Crimes.png" width="600"/>
 </p>
 
-Please read my [report](./crime_project.docx) for more informatio.
+Please read my [report](./crime_project.docx) for more information.
